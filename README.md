@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=cschuchardt88&color=orange&style=plastic&label=PROFILE+VIEWS)
+
 ### Hi there 👋
 
 <!--
