@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+I am a DotNet developer that has been programming in the Dotnet ecosystem for over 20 years now. I'm getting into the blockchain space. Currently I'm building on the Neo blockchain.
+
 <!--
 **cschuchardt88/cschuchardt88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
